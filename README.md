@@ -92,7 +92,3 @@ Alongside my research interests, some of my other interests and hobbies are:
 - Gym, trying head stand now a days
 - Cooking, I rate myself a pro in Bengali dishes. Hope to open a restaurant post-retirement.
      
-
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
