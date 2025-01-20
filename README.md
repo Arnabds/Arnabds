@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Arnab, a math grad student at the University of Pittsburgh, researching computational neuroscience with Dr. Bard Ermentrout. I specialized in pure mathematics during my MSc at IISER Bhopal, focusing on Algebra and Number Theory. Currently, I'm diving into data science and machine learning at CMU with Dr. Robert Kass. With experience teaching at several institutions, I've honed my teamwork and leadership skills. I pride myself on patiently teaching calculus to students and expertly deboning Bengali fish dishes.
+I'm Arnab, a math grad student at the University of Pittsburgh, researching computational neuroscience with Dr. Bard Ermentrout. I specialized in pure mathematics during my MSc at IISER Bhopal, focusing on Algebra and Number Theory. Currently, I'm diving into computational neuroscience and machine learning. With experience teaching at several institutions, I've honed my teamwork and leadership skills. I pride myself on patiently teaching calculus to students and expertly deboning Bengali fish dishes.
 
 ## Languages
 - Bengali(Native)
